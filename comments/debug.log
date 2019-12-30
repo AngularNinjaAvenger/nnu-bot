@@ -1,0 +1,415 @@
+False [17, '30', 'pm'] [13, '00', 'pm']
+
+False [17, '00', 'pm'] [13, '00', 'pm']
+
+False [17, '00', 'pm'] [13, '00', 'pm']
+
+False ['1', '20', 'am'] [13, '00', 'pm']
+
+False ['4', '00', 'am'] [13, '00', 'pm']
+
+False ['3', '00', 'am'] [13, '00', 'pm']
+
+False ['1', '17', 'am'] [13, '00', 'pm']
+['1', '17', 'am'] [0, 0, 'am']
+['1', ' 1', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['1', '17', 'am'] [0, 0, 'am']
+['1', ' 1', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['1', '17', 'am'] [0, 0, 'am']
+['1', ' 1', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['1', '02', 'am'] [0, 0, 'am']
+['12', ':48', 'am'] [0, 0, 'am']
+['12', ':48', 'am'] [0, 0, 'am']
+['12', ':48', 'am'] [0, 0, 'am']
+['12', ':32', 'am'] [0, 0, 'am']
+['12', ':32', 'am'] [0, 0, 'am']
+['12', ':32', 'am'] [0, 0, 'am']
+['12', ':32', 'am'] [0, 0, 'am']
+['12', ':32', 'am'] [0, 0, 'am']
+['12', ':32', 'am'] [0, 0, 'am']
+['12', ':17', 'am'] [0, 0, 'am']
+['12', ':17', 'am'] [0, 0, 'am']
+['12', ':17', 'am'] [0, 0, 'am']
+['12', ':17', 'am'] [0, 0, 'am']
+['12', ':17', 'am'] [0, 0, 'am']
+['12', ':17', 'am'] [0, 0, 'am']
+['12', ':17', 'am'] [0, 0, 'am']
+['12', ':17', 'am'] [0, 0, 'am']
+['12', ':17', 'am'] [0, 0, 'am']
+['12', ':02', 'am'] [0, 0, 'am']
+['12', ':02', 'am'] [0, 0, 'am']
+['12', ':02', 'am'] [0, 0, 'am']
+['12', ':02', 'am'] [0, 0, 'am']
+['12', ':02', 'am'] [0, 0, 'am']
+
+
+12  0
+
+12 <= 12
+    if [1] <= rt[1]
+        go to site
+    else:
+        continue
+
+
+[23, ':32', 'pm'] [0, 0, 'am']
+[23, ':32', 'pm'] [0, 0, 'am']
+[23, ':32', 'pm'] [0, 0, 'am']
+[23, ':32', 'pm'] [0, 0, 'am']
+[23, ':32', 'pm'] [0, 0, 'am']
+[23, ':32', 'pm'] [0, 0, 'am']
+[23, ':02', 'pm'] [0, 0, 'am']
+[23, ':02', 'pm'] [0, 0, 'am']
+[23, ':02', 'pm'] [0, 0, 'am']
+[22, ':48', 'pm'] [0, 0, 'am']
+[22, ':48', 'pm'] [0, 0, 'am']
+[22, ':48', 'pm'] [0, 0, 'am']
+[22, ':48', 'pm'] [0, 0, 'am']
+[22, ':48', 'pm'] [0, 0, 'am']
+[22, ':17', 'pm'] [0, 0, 'am']
+[22, ':02', 'pm'] [0, 0, 'am']
+[22, ':02', 'pm'] [0, 0, 'am']
+[22, ':02', 'pm'] [0, 0, 'am']
+[22, ':02', 'pm'] [0, 0, 'am']
+[22, ':02', 'pm'] [0, 0, 'am']
+[22, ':02', 'pm'] [0, 0, 'am']
+[22, ':02', 'pm'] [0, 0, 'am']
+[21, '48', 'pm'] [0, 0, 'am']
+[21, '48', 'pm'] [0, 0, 'am']
+[21, '48', 'pm'] [0, 0, 'am']
+[21, '32', 'pm'] [0, 0, 'am']
+[21, '32', 'pm'] [0, 0, 'am']
+[21, '32', 'pm'] [0, 0, 'am']
+[21, '32', 'pm'] [0, 0, 'am']
+[21, '32', 'pm'] [0, 0, 'am']
+[21, '17', 'pm'] [0, 0, 'am']
+[21, '17', 'pm'] [0, 0, 'am']
+[21, '17', 'pm'] [0, 0, 'am']
+[21, '17', 'pm'] [0, 0, 'am']
+[21, '02', 'pm'] [0, 0, 'am']
+[21, '02', 'pm'] [0, 0, 'am']
+[21, '02', 'pm'] [0, 0, 'am']
+[21, '02', 'pm'] [0, 0, 'am']
+[21, '02', 'pm'] [0, 0, 'am']
+[21, '02', 'pm'] [0, 0, 'am']
+[21, '02', 'pm'] [0, 0, 'am']
+[21, '02', 'pm'] [0, 0, 'am']
+[20, '48', 'pm'] [0, 0, 'am']
+[20, '32', 'pm'] [0, 0, 'am']
+[20, '32', 'pm'] [0, 0, 'am']
+[20, '32', 'pm'] [0, 0, 'am']
+[20, '17', 'pm'] [0, 0, 'am']
+[20, '17', 'pm'] [0, 0, 'am']
+[20, '02', 'pm'] [0, 0, 'am']
+[20, '02', 'pm'] [0, 0, 'am']
+[20, '02', 'pm'] [0, 0, 'am']
+[20, '02', 'pm'] [0, 0, 'am']
+[19, '48', 'pm'] [0, 0, 'am']
+[19, '48', 'pm'] [0, 0, 'am']
+[19, '48', 'pm'] [0, 0, 'am']
+[19, '48', 'pm'] [0, 0, 'am']
+[19, '48', 'pm'] [0, 0, 'am']
+[19, '32', 'pm'] [0, 0, 'am']
+[19, '32', 'pm'] [0, 0, 'am']
+[19, '32', 'pm'] [0, 0, 'am']
+[19, '32', 'pm'] [0, 0, 'am']
+[19, '32', 'pm'] [0, 0, 'am']
+[19, '32', 'pm'] [0, 0, 'am']
+[19, '17', 'pm'] [0, 0, 'am']
+[19, '17', 'pm'] [0, 0, 'am']
+[19, '17', 'pm'] [0, 0, 'am']
+[19, '17', 'pm'] [0, 0, 'am']
+[19, '17', 'pm'] [0, 0, 'am']
+[19, '02', 'pm'] [0, 0, 'am']
+[19, '02', 'pm'] [0, 0, 'am']
+[19, '02', 'pm'] [0, 0, 'am']
+[19, '02', 'pm'] [0, 0, 'am']
+[18, '48', 'pm'] [0, 0, 'am']
+[18, '48', 'pm'] [0, 0, 'am']
+[18, '48', 'pm'] [0, 0, 'am']
+[18, '48', 'pm'] [0, 0, 'am']
+[18, '48', 'pm'] [0, 0, 'am']
+[18, '48', 'pm'] [0, 0, 'am']
+[18, '48', 'pm'] [0, 0, 'am']
+[18, '32', 'pm'] [0, 0, 'am']
+[18, '32', 'pm'] [0, 0, 'am']
+[18, '32', 'pm'] [0, 0, 'am']
+[18, '32', 'pm'] [0, 0, 'am']
+[18, '32', 'pm'] [0, 0, 'am']
+[18, '32', 'pm'] [0, 0, 'am']
+[18, '32', 'pm'] [0, 0, 'am']
+[18, '32', 'pm'] [0, 0, 'am']
+[18, '32', 'pm'] [0, 0, 'am']
+[18, '17', 'pm'] [0, 0, 'am']
+[18, '17', 'pm'] [0, 0, 'am']
+[18, '17', 'pm'] [0, 0, 'am']
+[18, '17', 'pm'] [0, 0, 'am']
+[18, '17', 'pm'] [0, 0, 'am']
+[18, '17', 'pm'] [0, 0, 'am']
+[18, '17', 'pm'] [0, 0, 'am']
+[18, '17', 'pm'] [0, 0, 'am']
+[18, '17', 'pm'] [0, 0, 'am']
+[18, '17', 'pm'] [0, 0, 'am']
+[18, '17', 'pm'] [0, 0, 'am']
+[18, '02', 'pm'] [0, 0, 'am']
+[17, '48', 'pm'] [0, 0, 'am']
+[17, '48', 'pm'] [0, 0, 'am']
+[17, '48', 'pm'] [0, 0, 'am']
+[17, '48', 'pm'] [0, 0, 'am']
+[17, '48', 'pm'] [0, 0, 'am']
+[17, '48', 'pm'] [0, 0, 'am']
+[17, '48', 'pm'] [0, 0, 'am']
+[17, '48', 'pm'] [0, 0, 'am']
+[17, '32', 'pm'] [0, 0, 'am']
+[17, '32', 'pm'] [0, 0, 'am']
+[17, '32', 'pm'] [0, 0, 'am']
+[17, '32', 'pm'] [0, 0, 'am']
+[17, '32', 'pm'] [0, 0, 'am']
+[17, '17', 'pm'] [0, 0, 'am']
+[17, '17', 'pm'] [0, 0, 'am']
+[17, '17', 'pm'] [0, 0, 'am']
+[17, '17', 'pm'] [0, 0, 'am']
+[17, '17', 'pm'] [0, 0, 'am']
+[17, '17', 'pm'] [0, 0, 'am']
+[17, '17', 'pm'] [0, 0, 'am']
+[17, '17', 'pm'] [0, 0, 'am']
+[17, '02', 'pm'] [0, 0, 'am']
+[17, '02', 'pm'] [0, 0, 'am']
+[17, '02', 'pm'] [0, 0, 'am']
+[17, '02', 'pm'] [0, 0, 'am']
+[17, '02', 'pm'] [0, 0, 'am']
+[17, '02', 'pm'] [0, 0, 'am']
+[17, '02', 'pm'] [0, 0, 'am']
+[16, '48', 'pm'] [0, 0, 'am']
+[16, '48', 'pm'] [0, 0, 'am']
+[16, '48', 'pm'] [0, 0, 'am']
+[16, '48', 'pm'] [0, 0, 'am']
+[16, '32', 'pm'] [0, 0, 'am']
+[16, '32', 'pm'] [0, 0, 'am']
+[16, '32', 'pm'] [0, 0, 'am']
+[16, '32', 'pm'] [0, 0, 'am']
+[16, '32', 'pm'] [0, 0, 'am']
+[16, '17', 'pm'] [0, 0, 'am']
+[16, '17', 'pm'] [0, 0, 'am']
+[16, '17', 'pm'] [0, 0, 'am']
+[16, '02', 'pm'] [0, 0, 'am']
+[16, '02', 'pm'] [0, 0, 'am']
+[16, '02', 'pm'] [0, 0, 'am']
+[16, '02', 'pm'] [0, 0, 'am']
+[15, '48', 'pm'] [0, 0, 'am']
+[15, '48', 'pm'] [0, 0, 'am']
+[15, '48', 'pm'] [0, 0, 'am']
+[15, '48', 'pm'] [0, 0, 'am']
+[15, '48', 'pm'] [0, 0, 'am']
+[15, '48', 'pm'] [0, 0, 'am']
+[15, '48', 'pm'] [0, 0, 'am']
+[15, '48', 'pm'] [0, 0, 'am']
+[15, '32', 'pm'] [0, 0, 'am']
+[15, '32', 'pm'] [0, 0, 'am']
+[15, '32', 'pm'] [0, 0, 'am']
+[15, '32', 'pm'] [0, 0, 'am']
+[15, '17', 'pm'] [0, 0, 'am']
+[15, '17', 'pm'] [0, 0, 'am']
+[15, '17', 'pm'] [0, 0, 'am']
+[15, '02', 'pm'] [0, 0, 'am']
+[15, '02', 'pm'] [0, 0, 'am']
+[15, '02', 'pm'] [0, 0, 'am']
+[15, '02', 'pm'] [0, 0, 'am']
+[15, '02', 'pm'] [0, 0, 'am']
+[14, '48', 'pm'] [0, 0, 'am']
+[14, '48', 'pm'] [0, 0, 'am']
+[14, '48', 'pm'] [0, 0, 'am']
+[14, '48', 'pm'] [0, 0, 'am']
+[14, '48', 'pm'] [0, 0, 'am']
+[14, '48', 'pm'] [0, 0, 'am']
+[14, '48', 'pm'] [0, 0, 'am']
+[14, '32', 'pm'] [0, 0, 'am']
+[14, '17', 'pm'] [0, 0, 'am']
+[14, '17', 'pm'] [0, 0, 'am']
+[14, '02', 'pm'] [0, 0, 'am']
+[14, '02', 'pm'] [0, 0, 'am']
+[14, '02', 'pm'] [0, 0, 'am']
+[14, '02', 'pm'] [0, 0, 'am']
+[13, '48', 'pm'] [0, 0, 'am']
+[13, '48', 'pm'] [0, 0, 'am']
+[13, '48', 'pm'] [0, 0, 'am']
+[13, '32', 'pm'] [0, 0, 'am']
+[13, '32', 'pm'] [0, 0, 'am']
+[13, '32', 'pm'] [0, 0, 'am']
+[13, '32', 'pm'] [0, 0, 'am']
+[13, '32', 'pm'] [0, 0, 'am']
+[13, '17', 'pm'] [0, 0, 'am']
+[13, '17', 'pm'] [0, 0, 'am']
+[13, '17', 'pm'] [0, 0, 'am']
+[13, '02', 'pm'] [0, 0, 'am']
+[13, '02', 'pm'] [0, 0, 'am']
+[13, '02', 'pm'] [0, 0, 'am']
+[13, '02', 'pm'] [0, 0, 'am']
+[13, '02', 'pm'] [0, 0, 'am']
+[13, '02', 'pm'] [0, 0, 'am']
+[24, ':48', 'pm'] [0, 0, 'am']
+[24, ':48', 'pm'] [0, 0, 'am']
+[24, ':48', 'pm'] [0, 0, 'am']
+[24, ':32', 'pm'] [0, 0, 'am']
+[24, ':32', 'pm'] [0, 0, 'am']
+[24, ':32', 'pm'] [0, 0, 'am']
+[24, ':32', 'pm'] [0, 0, 'am']
+[24, ':32', 'pm'] [0, 0, 'am']
+[24, ':17', 'pm'] [0, 0, 'am']
+[24, ':17', 'pm'] [0, 0, 'am']
+[24, ':17', 'pm'] [0, 0, 'am']
+[24, ':17', 'pm'] [0, 0, 'am']
+[24, ':17', 'pm'] [0, 0, 'am']
+[24, ':17', 'pm'] [0, 0, 'am']
+[24, ':17', 'pm'] [0, 0, 'am']
+[24, ':17', 'pm'] [0, 0, 'am']
+[24, ':17', 'pm'] [0, 0, 'am']
+[24, ':17', 'pm'] [0, 0, 'am']
+[24, ':02', 'pm'] [0, 0, 'am']
+[24, ':02', 'pm'] [0, 0, 'am']
+['11', ':48', 'am'] [0, 0, 'am']
+['11', ':48', 'am'] [0, 0, 'am']
+['11', ':48', 'am'] [0, 0, 'am']
+['11', ':48', 'am'] [0, 0, 'am']
+['11', ':48', 'am'] [0, 0, 'am']
+['11', ':32', 'am'] [0, 0, 'am']
+['11', ':32', 'am'] [0, 0, 'am']
+['11', ':32', 'am'] [0, 0, 'am']
+['11', ':17', 'am'] [0, 0, 'am']
+['11', ':17', 'am'] [0, 0, 'am']
+['11', ':17', 'am'] [0, 0, 'am']
+['11', ':17', 'am'] [0, 0, 'am']
+['11', ':17', 'am'] [0, 0, 'am']
+['11', ':02', 'am'] [0, 0, 'am']
+['11', ':02', 'am'] [0, 0, 'am']
+['11', ':02', 'am'] [0, 0, 'am']
+['11', ':02', 'am'] [0, 0, 'am']
+['10', ':48', 'am'] [0, 0, 'am']
+['10', ':48', 'am'] [0, 0, 'am']
+['10', ':48', 'am'] [0, 0, 'am']
+['10', ':48', 'am'] [0, 0, 'am']
+['10', ':32', 'am'] [0, 0, 'am']
+['10', ':32', 'am'] [0, 0, 'am']
+['10', ':32', 'am'] [0, 0, 'am']
+['10', ':32', 'am'] [0, 0, 'am']
+['10', ':17', 'am'] [0, 0, 'am']
+['10', ':17', 'am'] [0, 0, 'am']
+['10', ':17', 'am'] [0, 0, 'am']
+['10', ':17', 'am'] [0, 0, 'am']
+['10', ':17', 'am'] [0, 0, 'am']
+['10', ':02', 'am'] [0, 0, 'am']
+['10', ':02', 'am'] [0, 0, 'am']
+['10', ':02', 'am'] [0, 0, 'am']
+['10', ':02', 'am'] [0, 0, 'am']
+['10', ':02', 'am'] [0, 0, 'am']
+['10', ':02', 'am'] [0, 0, 'am']
+['10', ':02', 'am'] [0, 0, 'am']
+['9', '32', 'am'] [0, 0, 'am']
+['9', '32', 'am'] [0, 0, 'am']
+['9', '17', 'am'] [0, 0, 'am']
+['9', '17', 'am'] [0, 0, 'am']
+['9', '17', 'am'] [0, 0, 'am']
+['9', '17', 'am'] [0, 0, 'am']
+['9', '02', 'am'] [0, 0, 'am']
+['9', '02', 'am'] [0, 0, 'am']
+['9', '02', 'am'] [0, 0, 'am']
+['9', '02', 'am'] [0, 0, 'am']
+['9', '02', 'am'] [0, 0, 'am']
+['9', '02', 'am'] [0, 0, 'am']
+['9', '02', 'am'] [0, 0, 'am']
+['9', '02', 'am'] [0, 0, 'am']
+['8', '48', 'am'] [0, 0, 'am']
+['8', '48', 'am'] [0, 0, 'am'][0814/175355.049:ERROR:crash_report_database_win.cc(580)] CreateDirectory C:\Users\ANGULA~1\AppData\Local\Temp\scoped_dir11592_21044\Crashpad: The system cannot find the path specified. (0x3)
+[0817/135059.342:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0817/135059.543:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0817/135059.544:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0817/135059.545:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0817/135059.545:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0817/135059.567:ERROR:exception_snapshot_win.cc(98)] thread ID 11484 not found in process
+[0817/142057.262:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0817/142057.376:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0817/142057.376:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0817/142057.376:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0817/142057.462:ERROR:exception_snapshot_win.cc(98)] thread ID 4804 not found in process
+[0817/142903.191:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0817/142903.612:ERROR:exception_snapshot_win.cc(98)] thread ID 8620 not found in process
+[0818/162941.967:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0818/162942.070:ERROR:exception_snapshot_win.cc(98)] thread ID 12596 not found in process
+[0818/182232.442:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0818/182233.242:ERROR:exception_snapshot_win.cc(98)] thread ID 9576 not found in process
+[0819/000059.729:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0819/000059.865:ERROR:exception_snapshot_win.cc(98)] thread ID 1628 not found in process
+[0819/072857.622:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0819/072857.710:ERROR:exception_snapshot_win.cc(98)] thread ID 14820 not found in process
+[0819/073346.531:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0819/073346.589:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0819/073346.590:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0819/073346.602:ERROR:exception_snapshot_win.cc(98)] thread ID 1644 not found in process
+[0822/181143.725:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0822/181143.761:ERROR:exception_snapshot_win.cc(98)] thread ID 12132 not found in process
+[0822/204045.525:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0822/204045.768:ERROR:exception_snapshot_win.cc(98)] thread ID 4212 not found in process
+[0823/184129.017:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0823/184129.086:ERROR:exception_snapshot_win.cc(98)] thread ID 1840 not found in process
+[0824/153019.950:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0824/153020.249:ERROR:exception_snapshot_win.cc(98)] thread ID 8976 not found in process
+[0824/234739.367:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0824/234739.424:ERROR:exception_snapshot_win.cc(98)] thread ID 1156 not found in process
+[0825/202557.247:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0825/202557.351:ERROR:exception_snapshot_win.cc(98)] thread ID 12224 not found in process
+[0826/072308.781:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0826/072308.879:ERROR:exception_snapshot_win.cc(98)] thread ID 10768 not found in process
+[0828/184315.542:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0828/184315.598:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0828/184315.598:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0828/184811.063:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0828/184811.074:ERROR:exception_snapshot_win.cc(98)] thread ID 15428 not found in process
+[0828/222827.892:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0828/222827.946:ERROR:exception_snapshot_win.cc(98)] thread ID 19876 not found in process
+[0828/222916.779:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0828/222916.781:ERROR:exception_snapshot_win.cc(98)] thread ID 19668 not found in process
+[0828/230949.586:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0828/230949.673:ERROR:exception_snapshot_win.cc(98)] thread ID 6548 not found in process
+[0905/213138.905:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0905/213139.104:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0905/213139.104:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0905/213139.104:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0905/213139.105:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0905/213139.105:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0905/213139.139:ERROR:exception_snapshot_win.cc(98)] thread ID 4908 not found in process
+[0905/214311.052:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0905/214311.060:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0905/214311.060:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0905/214311.061:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0905/214311.061:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0905/214311.063:ERROR:exception_snapshot_win.cc(98)] thread ID 9988 not found in process
+[0907/085930.001:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0907/085930.149:ERROR:exception_snapshot_win.cc(98)] thread ID 1056 not found in process
+[0907/090730.800:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0907/090730.895:ERROR:exception_snapshot_win.cc(98)] thread ID 11044 not found in process
+[0907/091945.699:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/091945.764:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/091945.764:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/091945.764:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/091945.764:ERROR:process_reader_win.cc(151)] SuspendThread: Access is denied. (0x5)
+[0907/091945.765:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0907/091945.788:ERROR:exception_snapshot_win.cc(98)] thread ID 12872 not found in process
+[0907/235256.511:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0907/235256.572:ERROR:exception_snapshot_win.cc(98)] thread ID 13248 not found in process
